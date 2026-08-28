@@ -94,13 +94,6 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
   Made by <strong>Ihtiram Khan</strong>
 </div>
